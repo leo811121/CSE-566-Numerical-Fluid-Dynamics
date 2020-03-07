@@ -1,4 +1,4 @@
-#pgm2
+# pgm2
 ## Description
 - Problem:  2-D linear advection via fractional step (directional) splitting
 - Boundary conditions: 0-gradient in both directions (ghost point values = nearest edge value)
@@ -13,3 +13,4 @@ solution at 600 steps. Also, for each method, plots of smin(t) and smax(t).
 - Print and hand in Takacs error data to 5 decimal places for your final solutions.
 
 ## Result 
+![image](https://github.com/leo811121/CSE-566-Numerical-Fluid-Dynamics/blob/master/image/pgm2.JPG)
