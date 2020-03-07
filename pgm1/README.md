@@ -20,4 +20,4 @@ Set the plot frequency to be as often as you wish (e.g. every step).
 - Case B: Courant number 1.5; (try to) run 20 steps; Linear.
 - Case C: Courant number: I entered 1; run 20 steps; Nonlinear.
 
-
+![image](https://github.com/leo811121/CSE-566-Numerical-Fluid-Dynamics/blob/master/pgm1.JPG)
